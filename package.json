@@ -1,0 +1,22 @@
+{
+  "name": "selenium_cucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prajeshgupta25/Selenium_Cucumber_Framework.git"
+  },
+  "author": "Prajesh Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prajeshgupta25/Selenium_Cucumber_Framework/issues"
+  },
+  "homepage": "https://github.com/prajeshgupta25/Selenium_Cucumber_Framework#readme",
+  "dependencies": {
+    "cucumber": "^6.0.7"
+  }
+}
